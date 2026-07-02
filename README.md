@@ -14,11 +14,11 @@
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://vignesh-svk24.github.io/Portfolio-/">
 <img src="https://img.shields.io/badge/🌐 Portfolio-black?style=for-the-badge"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/vignesh-s-442081373?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Vignesh-SVK24">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -51,7 +51,7 @@
 - Mobile Applications
 - Automation
 - Voice AI
-- Image Generation
+- Image and Video Generation
 - Intelligent Agents
 - Modern UI/UX
 
@@ -64,8 +64,6 @@
 - 🧠 Deep Learning
 - 💬 Natural Language Processing
 - 📊 Data Structures & Algorithms
-- ☁️ Firebase
-- ⚛️ React
 - 📱 Mobile App Development
 - 🧩 AI System Design
 
@@ -178,6 +176,8 @@ Creating AI-generated YouTube content focused on:
 - GitHub Copilot
 - Google AI Studio
 - Antigravity AI
+- Leonardo AI
+- Kling AI
 
 ---
 
@@ -263,12 +263,9 @@ Creating AI-generated YouTube content focused on:
 
 - Artificial Intelligence
 - Machine Learning
-- Deep Learning
-- LLMs
 - AI Agents
 - Prompt Engineering
 - Computer Vision
-- NLP
 - Firebase
 - Cloud Computing
 - Mobile Development
